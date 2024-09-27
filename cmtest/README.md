@@ -5,4 +5,4 @@
 #測試fetch&pull
 
 # commamd practise
-
+--no-ff
